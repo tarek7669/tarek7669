@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarek7669
-- 👀 I’m interested in testing, finding bugs
-- 🌱 I’m currently learning backend development (django)
+- 👀 I’m interested in a machine learning internship
+- 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate with you on any startup, part-time job, internship, training...
 - 📫 How to reach me -> Email: tashraf154@gmail.com
 
