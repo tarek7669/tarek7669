@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tarek7669
 - 👀 I’m interested in a machine learning internship
 - 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate with you on any startup, part-time job, internship, training...
+- 💞️ I’m looking for a new challenge as a ML Engineer 
 - 📫 How to reach me -> Email: tarek.ashraf.7669.com
 
 <!---
