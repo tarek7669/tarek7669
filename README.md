@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking for a new challenge as an ML Engineer 
 - 📫 How to reach me -> Email: tarek.ashraf.7669@gmail.com
+- 📫 Take a look on my work -> https://tarek7669.github.io/Portfolio/
 
 <!---
 tarek7669/tarek7669 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
