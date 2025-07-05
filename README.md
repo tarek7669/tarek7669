@@ -1,6 +1,6 @@
 - 👋 Hi, I am Tarek
 - 👀 I am a Machine Learning Engineer
-- 🌱 I build Agents, LLLM-Powered applications, Machine Learning models, and many more...
+- 🌱 I build Agents, LLM-Powered applications, Machine Learning models, and many more...
 - 💞️ I am looking for a new challenge as an ML Engineer/GenAI Engineer/AI Engineer/Data Scientist/LLM Engineer
 - 📫 How to reach me -> Email: tarek.ashraf.7669@gmail.com
 - 📫 Take a look at my work -> https://tarek7669.github.io/Portfolio/
